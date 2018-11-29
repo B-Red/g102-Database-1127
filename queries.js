@@ -12,5 +12,8 @@ module.exports = {
     },
     createStudent(newStudent){
         return database('students').insert(newStudent).returning('*')
+    },
+    deleteStudent(id){
+        return database('students').where('id', id).delete()
     }
 }

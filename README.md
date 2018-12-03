@@ -26,5 +26,5 @@ To RUN you will need to:
 `npm run start`
 
 ### Repo links:
-[Back-End repo](https://github.com/B-Red/g102-Database-1127 "Back-End Server")
-[Link to deployed database](https://pacific-fjord-96102.herokuapp.com/ "g102 Database on Heroku")
+  *[Back-End repo](https://github.com/B-Red/g102-Database-1127 "Back-End Server")
+  *[Link to deployed database](https://pacific-fjord-96102.herokuapp.com/ "g102 Database on Heroku")
